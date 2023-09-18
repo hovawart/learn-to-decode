@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hovawart/learn-to-decode.git/static/css/main.073c9b0a.css",
-    "main.js": "/hovawart/learn-to-decode.git/static/js/main.262caf6f.js",
-    "static/js/787.9ec5b488.chunk.js": "/hovawart/learn-to-decode.git/static/js/787.9ec5b488.chunk.js",
-    "static/media/logo.svg": "/hovawart/learn-to-decode.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/hovawart/learn-to-decode.git/index.html",
-    "main.073c9b0a.css.map": "/hovawart/learn-to-decode.git/static/css/main.073c9b0a.css.map",
-    "main.262caf6f.js.map": "/hovawart/learn-to-decode.git/static/js/main.262caf6f.js.map",
-    "787.9ec5b488.chunk.js.map": "/hovawart/learn-to-decode.git/static/js/787.9ec5b488.chunk.js.map"
+    "main.css": "/hovawart/learn-to-decode/static/css/main.073c9b0a.css",
+    "main.js": "/hovawart/learn-to-decode/static/js/main.85a74677.js",
+    "static/js/787.9ec5b488.chunk.js": "/hovawart/learn-to-decode/static/js/787.9ec5b488.chunk.js",
+    "static/media/logo.svg": "/hovawart/learn-to-decode/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hovawart/learn-to-decode/index.html",
+    "main.073c9b0a.css.map": "/hovawart/learn-to-decode/static/css/main.073c9b0a.css.map",
+    "main.85a74677.js.map": "/hovawart/learn-to-decode/static/js/main.85a74677.js.map",
+    "787.9ec5b488.chunk.js.map": "/hovawart/learn-to-decode/static/js/787.9ec5b488.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.262caf6f.js"
+    "static/js/main.85a74677.js"
   ]
 }
